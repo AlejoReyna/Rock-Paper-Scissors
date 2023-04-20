@@ -50,4 +50,13 @@ elif user_option == 'tijeras':
     print('Piedra vence a tijeras.')
     print('Python gana (\(n . n)/)')
 
-print('¡Gracias por jugar, hasta luego!')
+print('¡Gracias por jugar, hasta luego!')}
+
+
+
+
+
+
+
+# Esta línea es para que git me deje hacer un nuevo commit jaja saludos
+
